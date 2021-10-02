@@ -3,7 +3,6 @@
 int main()
 {
   printf("Mah name is");
-  
   printf("This is my fiest program ");
   
   int n;
